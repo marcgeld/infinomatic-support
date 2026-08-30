@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Infinomatic Documentation
+    url: https://github.com/marcgeld/infinomatic-support
+    about: Read the documentation and support guidelines before opening an issue.
